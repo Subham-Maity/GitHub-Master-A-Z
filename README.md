@@ -1,4 +1,12 @@
-﻿1. **Cloning a Remote Git Repository from GitHub**
+# Intro
+I am **Subham Maity**
+I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
+## Help us improve this guide - **Fork, Pull Requests, Shares and Likes are recommended**!
+# [You can follow the Google Doc](https://docs.google.com/document/d/190sAY4DDUiqnZRU8ZprLMTd_6e3r3i9aOdA-26l5IYo/edit)
+# [For Detail Explanation Follow This video Playlist ](https://www.youtube.com/watch?v=q933Vpo-Naw&list=PL24H0nY4FDEmh5e4WMgyL6zxOg64JNXdF&ab_channel=CodeXam)
+
+
+1. **Cloning a Remote Git Repository from GitHub**
 
 We are going to learn about Cloning a Git Repository from Github. So let’s get started.
 
